@@ -1,7 +1,5 @@
 from pathlib import Path
 import pymupdf
-import smtplib
-from email.message import EmailMessage
 
 pdf_folder = Path.home() / "Documents/PDF"
 
